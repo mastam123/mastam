@@ -2190,3 +2190,404 @@ https://notion.boybook.workers.dev/https://d37ey7ubht2hh2.cloudfront.net/out/v1/
 #EXTINF:-1, group-title="RADIO" tvg-id="CHN" tvg-logo="https://notion.boybook.workers.dev/https://telegra.ph/file/3bd2712a70950607fa779.png",Radio IKIM
 https://notion.boybook.workers.dev/https://hls.rastream.com/ikim-ikimfm.web.hls/playlist.m3u8?listeningSessionID=656f3685170c9d84_563629_0cAwv1Pr_MTAzLjIxLjgxLjM6ODA!_0000000hbXA&downloadSessionID=0&awparams=companionads%3Atrue%3Btags%3Aradioactive%3Btags%3Aikimfm%3Bstationid%3Aikimfm-ikimfm&playerid=IKIM_web&authtoken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJvaWQiOiJsYXlsaW8iLCJpYXQiOjE3MDIzNTA4NTYsImV4cCI6MTcwMjQzNzI1Nn0.fRRpdFMfBhEICYhCvDfljDMy1Tns1lYJU-OSHZ4tWV0&lan=%5B%22ms%22%5D&setLanguage=true&listenerid=afac2f3d6061e960167fe755466b0eab
   
+
+
+
+#EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/ABC_v1.png" group-title="IndiHomeTV" tvg-name="ABC-AUSTRALIA", ABC AUSTRALIA
+http://iptvid.my.id/avc/Mastam/mastam123/abcaustralia.m3u8
+
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/91_144.png" group-title="IndiHomeTV" tvg-name="AFN", ASIAN FOOD NETWORK 
+http://iptvid.my.id/avc/Mastam/mastam123/afc.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_aljazeera.png" group-title="IndiHomeTV" tvg-name="AL-JAZEERA", AL JAZEERA
+http://iptvid.my.id/avc/Mastam/mastam123/aljazeera.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_alquranalkareem.png" group-title="IndiHomeTV" tvg-name="AL-QURAN-AL-KAREEM", AL QURAN AL KAREEM
+http://iptvid.my.id/avc/Mastam/mastam123/alquran.m3u8
+
+#EXTINF:-1 tvg-logo="https://aqfadtv.xyz/logos/Animax.png" group-title="IndiHomeTV" tvg-name="ANIMAX", ANIMAX
+http://iptvid.my.id/avc/Mastam/mastam123/animax.m3u8
+
+#EXTINF:-1 tvg-id="556.astro" tvg-logo="https://i.imgur.com/x1hHQwk.png" group-title="IndiHomeTV",Animal Planet
+http://iptvid.my.id/avc/Mastam/mastam123/animalplanet.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/Aniplus_Asia_Logo.png" group-title="IndiHomeTV" tvg-name="ANIPLUS", ANIPLUS
+http://iptvid.my.id/avc/Mastam/mastam123/aniplus.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_antara.png" group-title="IndiHomeTV" tvg-name="ANTARA", ANTARA
+http://iptvid.my.id/avc/Mastam/mastam123/antara.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_antv.png" group-title="IndiHomeTV" tvg-name="ANTV", ANTV
+http://iptvid.my.id/avc/Mastam/mastam123/antv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_arirang.png" group-title="IndiHomeTV" tvg-name="ARIRANG", ARIRANG
+http://iptvid.my.id/avc/Mastam/mastam123/arirang.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_atv.png" group-title="IndiHomeTV" tvg-name="ATV", ATV
+http://iptvid.my.id/avc/Mastam/mastam123/atv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_axn.png" group-title="IndiHomeTV" tvg-name="AXN", AXN
+http://iptvid.my.id/avc/Mastam/mastam123/axn.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_babyfirst.png" group-title="IndiHomeTV" tvg-name="BABY-FIRST", BABY FIRST
+rtp://@239.1.1.157:8916
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_balitv.png" group-title="IndiHomeTV" tvg-name="BALITV", BALITV
+http://iptvid.my.id/avc/Mastam/mastam123/balitv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beinsports1.png" group-title="IndiHomeTV" tvg-name="BEIN-SPORTS-1", BEIN SPORTS
+http://iptvid.my.id/avc/Mastam/mastam123/bein1.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beinsports3.png" group-title="IndiHomeTV" tvg-name="BEIN-SPORTS-3", BEIN SPORTS 3
+http://iptvid.my.id/avc/Mastam/mastam123/bein2.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_beritasatu.png" group-title="IndiHomeTV" tvg-name="BERITA-SATU", BERITA SATU
+http://iptvid.my.id/avc/Mastam/mastam123/beritasatu.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_bioskopindonesia.png" group-title="IndiHomeTV" tvg-name="BIOSKOP-INDONESIA", BIOSKOP INDONESIA
+http://iptvid.my.id/avc/Mastam/mastam123/bioskopindonesia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_bloomberg.png" group-title="IndiHomeTV" tvg-name="BLOOMBERG", BLOOMBERG
+http://iptvid.my.id/avc/Mastam/mastam123/bloomberg.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_boomerang.png" group-title="IndiHomeTV" tvg-name="BOOMERANG", BOOMERANG
+http://iptvid.my.id/avc/Mastam/mastam123/boomerang.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cartoonnetwork.png" group-title="IndiHomeTV" tvg-name="CARTOON-NETWORK", CARTOON NETWORK
+http://iptvid.my.id/avc/Mastam/mastam123/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cctv4.png" group-title="IndiHomeTV" tvg-name="CCTV4", CCTV4
+http://iptvid.my.id/avc/Mastam/mastam123/cctv4.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_celestialmovies.png" group-title="IndiHomeTV" tvg-name="CELESTIALMOVIES ID", CELESTIAL MOVIES
+http://iptvid.my.id/avc/Mastam/mastam123/celestialmovie.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cgtndocumentary.png" group-title="IndiHomeTV" tvg-name="CGTN-DOCUMENTARY", CGTN DOCUMENTARY
+http://iptvid.my.id/avc/Mastam/mastam123/cgtndocumentary.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_chinesedrama_hd.png" group-title="IndiHomeTV" tvg-name="CHINESE-DRAMA-HD", CHINESE DRAMA
+http://iptvid.my.id/avc/Mastam/mastam123/cdrama.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cinemaworld.png" group-title="IndiHomeTV" tvg-name="CINEMA-WORLD", CINEMA WORLD
+http://iptvid.my.id/avc/Mastam/mastam123/cinemaworld.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_citradangdut.png" group-title="IndiHomeTV" tvg-name="CITRA-DANGDUT", CITRA DANGDUT
+http://iptvid.my.id/avc/Mastam/mastam123/citradangdut.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_citradrama.png" group-title="IndiHomeTV" tvg-name="CITRA-DRAMA", CITRA DRAMA
+http://iptvid.my.id/avc/Mastam/mastam123/cdrama.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnbcasia.png" group-title="IndiHomeTV" tvg-name="CNBC-ASIA", CNBC ASIA
+http://iptvid.my.id/avc/Mastam/mastam123/cnbcasia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnbcindonesia.png" group-title="IndiHomeTV" tvg-name="CNBC-INDONESIA", CNBC INDONESIA
+http://iptvid.my.id/avc/Mastam/mastam123/cnbcindonesia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnnindonesia.png" group-title="IndiHomeTV" tvg-name="CNN-INDONESIA", CNN INDONESIA
+http://iptvid.my.id/avc/Mastam/mastam123/cnnindonesia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_cnninternational.png" group-title="IndiHomeTV" tvg-name="CNN-INTERNATIONAL", CNN INTERNATIONAL
+http://iptvid.my.id/avc/Mastam/mastam123/cnninternational.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_crimeinvestigations.png" group-title="IndiHomeTV" tvg-name="CRIME-INVESTIGATION", CRIME INVESTIGATION
+http://iptvid.my.id/avc/Mastam/mastam123/crimeinvestigation.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ctiasia.png" group-title="IndiHomeTV" tvg-name="CTI-ASIA", CTI ASIA
+http://iptvid.my.id/avc/Mastam/mastam123/ctiasia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ctiasia.png" group-title="IndiHomeTV" tvg-name="Curiosity",CURIOSITY
+http://iptvid.my.id/avc/Mastam/mastam123/curiosity.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_davincilearning.png" group-title="IndiHomeTV" tvg-name="DA-VINCI-LEARNING", DA VINCI LEARNING
+http://iptvid.my.id/avc/Mastam/mastam123/davinci.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_daaitv.png" group-title="IndiHomeTV" tvg-name="DAAI-TV", DAAI TV
+http://iptvid.my.id/avc/Mastam/mastam123/daaitv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_discoverychannel.png" group-title="IndiHomeTV" tvg-name="DISCOVERY-CHANNEL", DISCOVERY CHANNEL
+http://iptvid.my.id/avc/Mastam/mastam123/disco.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-logo="https://i.imgur.com/jAeSKOP.png" group-title="IndiHomeTV",Discovery Asia
+http://iptvid.my.id/avc/Mastam/mastam123/discoveryasia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dreamworks.png" group-title="IndiHomeTV" tvg-name="DREAMWORKS", DREAMWORKS
+http://iptvid.my.id/avc/Mastam/mastam123/dreamworks.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_duniaanak.png" group-title="IndiHomeTV" tvg-name="DUNIA-ANAK", DUNIA ANAK
+http://iptvid.my.id/avc/Mastam/mastam123/duniaanak.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dunialain.png" group-title="IndiHomeTV" tvg-name="DUNIA-LAIN", DUNIA LAIN
+http://iptvid.my.id/avc/Mastam/mastam123/dunialain.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_dw.png" group-title="IndiHomeTV" tvg-name="DW", DW
+http://iptvid.my.id/avc/Mastam/mastam123/dwtv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_eatgo.png" group-title="IndiHomeTV" tvg-name="EAT-GO", EAT GO
+http://iptvid.my.id/avc/Mastam/mastam123/eatgo.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ebcasia.png" group-title="IndiHomeTV" tvg-name="EBC-ASIA", EBC ASIA
+http://iptvid.my.id/avc/Mastam/mastam123/ettvasia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_euronews.png" group-title="IndiHomeTV" tvg-name="EURONEWS", EURONEWS
+http://iptvid.my.id/avc/Mastam/mastam123/euronews.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_fashiontv.png" group-title="IndiHomeTV" tvg-name="FASHION-TV", FASHION TV
+http://iptvid.my.id/avc/Mastam/mastam123/fashiontv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_fightsport.png" group-title="IndiHomeTV" tvg-name="FIGHT-SPORT", FIGHT SPORT
+http://iptvid.my.id/avc/Mastam/mastam123/fightsport.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_flik.png" group-title="IndiHomeTV" tvg-name="FLIK", FLIK
+http://iptvid.my.id/avc/Mastam/mastam123/flik.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_formosa.png" group-title="IndiHomeTV" tvg-name="FORMOSA", FORMOSA
+http://iptvid.my.id/avc/Mastam/mastam123/formosa.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_france24.png" group-title="IndiHomeTV" tvg-name="FRANCE-24", FRANCE 24
+http://iptvid.my.id/avc/Mastam/mastam123/france24.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_galaxy.png" group-title="IndiHomeTV" tvg-name="GALAXY", GALAXY
+http://iptvid.my.id/avc/Mastam/mastam123/galaxy.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_galaxypremium.png" group-title="IndiHomeTV" tvg-name="GALAXY-PREMIUM", GALAXY PREMIUM
+http://iptvid.my.id/avc/Mastam/mastam123/galaxypremium.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_gem.png" group-title="IndiHomeTV" tvg-name="GEM", GEM
+http://iptvid.my.id/avc/Mastam/mastam123/sgem.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hgtv.png" group-title="IndiHomeTV" tvg-name="HGTV", HGTV
+http://iptvid.my.id/avc/Mastam/mastam123/hgtv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_historychannel.png" group-title="IndiHomeTV" tvg-name="HISTORY-CHANNEL", HISTORY
+http://iptvid.my.id/avc/Mastam/mastam123/history.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hits.png" group-title="IndiHomeTV" tvg-name="HITS", HITS
+http://iptvid.my.id/avc/Mastam/mastam123/hits.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hits_hd.png" group-title="IndiHomeTV" tvg-name="HITS NOW", HITS NOW
+http://iptvid.my.id/avc/Mastam/mastam123/hitsnow.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_hitsmovies.png" group-title="IndiHomeTV" tvg-name="HITS-MOVIES", HITS MOVIES
+http://iptvid.my.id/avc/Mastam/mastam123/hitsmovie.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horee.png" group-title="IndiHomeTV" tvg-name="HOREE", HOREE
+http://iptvid.my.id/avc/Mastam/mastam123/horee.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_horizonsports.png" group-title="IndiHomeTV" tvg-name="HORIZON-SPORTS", HORIZON SPORTS
+http://iptvid.my.id/avc/Mastam/mastam123/horizonsport.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_idxchannel.png" group-title="IndiHomeTV" tvg-name="IDX-CHANNEL", IDX CHANNEL
+http://iptvid.my.id/avc/Mastam/mastam123/idx.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_ikonser.png" group-title="IndiHomeTV" tvg-name="IKONSER", IKONSER
+http://iptvid.my.id/avc/Mastam/mastam123/ikonser.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_imc.png" group-title="IndiHomeTV" tvg-name="IMC", IMC
+http://iptvid.my.id/avc/Mastam/mastam123/imc.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indikids.png" group-title="IndiHomeTV" tvg-name="INDIKIDS", INDIKIDS
+http://iptvid.my.id/avc/Mastam/mastam123/indikids.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indonesianatv.png" group-title="IndiHomeTV" tvg-name="INDONESIANA-TV", INDONESIANA TV
+http://iptvid.my.id/avc/Mastam/mastam123/indonesiana.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_indosiar.png" group-title="IndiHomeTV" tvg-name="INDOSIAR", INDOSIAR
+http://iptvid.my.id/avc/Mastam/mastam123/indosiar.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_inews.png" group-title="IndiHomeTV" tvg-name="INEWS", INEWS
+http://iptvid.my.id/avc/Mastam/mastam123/inews.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_insert.png" group-title="IndiHomeTV" tvg-name="INSERT", INSERT
+http://iptvid.my.id/avc/Mastam/mastam123/insert.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jaktv.png" group-title="IndiHomeTV" tvg-name="JAKTV", JAKTV
+http://iptvid.my.id/avc/Mastam/mastam123/jaktv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_jtv.png" group-title="IndiHomeTV" tvg-name="JTV", JTV
+http://iptvid.my.id/avc/Mastam/mastam123/jtv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kplus.png" group-title="IndiHomeTV" tvg-name="K-PLUS", K PLUS
+http://iptvid.my.id/avc/Mastam/mastam123/kplus.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kbsworld.png" group-title="IndiHomeTV" tvg-name="KBS-WORLD", KBS WORLD
+http://iptvid.my.id/avc/Mastam/mastam123/kbsworld.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kix.png" group-title="IndiHomeTV" tvg-name="KIX", KIX
+http://iptvid.my.id/avc/Mastam/mastam123/kix.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kompastv.png" group-title="IndiHomeTV" tvg-name="KOMPAS-TV", KOMPAS TV
+http://iptvid.my.id/avc/Mastam/mastam123/kompastv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_kungfutv_hd.png" group-title="IndiHomeTV" tvg-name="KUNGFU-TV-HD", KUNGFU TV HD
+http://iptvid.my.id/avc/Mastam/mastam123/kungfutv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_lifetime.png" group-title="IndiHomeTV" tvg-name="LIFETIME", LIFETIME
+http://iptvid.my.id/avc/Mastam/mastam123/lifetime.m3u8
+
+#EXTINF:-1 tvg-id="LoveNature4K.ca" tvg-logo="https://i.imgur.com/5QGgJe8.png" group-title="IndiHomeTV",Love Nature
+http://iptvid.my.id/avc/Mastam/mastam123/lovenature.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_linguachannel.png" group-title="IndiHomeTV" tvg-name="LINGUA-CHANNEL", LINGUA CHANNEL
+http://iptvid.my.id/avc/Mastam/mastam123/lingua.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mentaritv.png" group-title="IndiHomeTV" tvg-name="MAXSTREAM-TV", MAXSTREAM
+http://iptvid.my.id/avc/Mastam/mastam123/maxstream.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mentaritv.png" group-title="IndiHomeTV" tvg-name="MENTARI-TV", MENTARI TV
+http://iptvid.my.id/avc/Mastam/mastam123/mentaritv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_metrotv.png" group-title="IndiHomeTV" tvg-name="METRO-TV", METRO TV
+http://iptvid.my.id/avc/Mastam/mastam123/metrotv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mncnews.png" group-title="IndiHomeTV" tvg-name="MNC-NEWS", MNC NEWS
+http://iptvid.my.id/avc/Mastam/mastam123/mncnews.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mqtv.png" group-title="IndiHomeTV" tvg-name="MQTV", MQTV
+http://iptvid.my.id/avc/Mastam/mastam123/mqtv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mtatv.png" group-title="IndiHomeTV" tvg-name="MTA-TV", MTA TV
+http://iptvid.my.id/avc/Mastam/mastam123/mtatv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mtvlive.png" group-title="IndiHomeTV" tvg-name="MTV-LIVE", MTV LIVE
+http://iptvid.my.id/avc/Mastam/mastam123/mtvlive.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_musikindonesia.png" group-title="IndiHomeTV" tvg-name="MUSIK-INDONESIA", MUSIK INDONESIA
+http://iptvid.my.id/avc/Mastam/mastam123/musikindo.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mycinema.png" group-title="IndiHomeTV" tvg-name="MY-CINEMA", MY CINEMA
+http://iptvid.my.id/avc/Mastam/mastam123/mycinema.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mycinemaasia.png" group-title="IndiHomeTV" tvg-name="MY-CINEMA-ASIA", MY CINEMA ASIA
+http://iptvid.my.id/avc/Mastam/mastam123/mycinemaasia.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_myfamilychannel.png" group-title="IndiHomeTV" tvg-name="MY-FAMILY-CHANNEL", MY FAMILY CHANNEL
+http://iptvid.my.id/avc/Mastam/mastam123/myfamily.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_mykidz.png" group-title="IndiHomeTV" tvg-name="MY-KIDZ", MY KIDZ
+http://iptvid.my.id/avc/Mastam/mastam123/mykids.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_natgeochannel.png" group-title="IndiHomeTV" tvg-name="NAT-GEO-CHANNEL", NATIONAL GEOGRAPHIC
+http://iptvid.my.id/avc/Mastam/mastam123/natgeo.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_natgeowild.png" group-title="IndiHomeTV" tvg-name="NAT-GEO-WILD", NATIONAL GEOGRAPHIC WILD
+http://iptvid.my.id/avc/Mastam/mastam123/natgeowild.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nbatv_hd.png" group-title="IndiHomeTV" tvg-name="NBA-TV-HD", NBA TV
+http://iptvid.my.id/avc/Mastam/mastam123/nba.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_net.png" group-title="IndiHomeTV" tvg-name="NET", NET.
+http://iptvid.my.id/avc/Mastam/mastam123/net.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nhkworldjapan.png" group-title="IndiHomeTV" tvg-name="NHK-WORLD-JAPAN", NHK WORLD JAPAN
+http://iptvid.my.id/avc/Mastam/mastam123/nhkworld.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nickjr.png" group-title="IndiHomeTV" tvg-name="NICK-JR", NICK JR
+http://iptvid.my.id/avc/Mastam/mastam123/nickjr.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nickelodeon.png" group-title="IndiHomeTV" tvg-name="NICKELODEON", NICKELODEON
+http://iptvid.my.id/avc/Mastam/mastam123/nickelodeon.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_nusantaratv.png" group-title="IndiHomeTV" tvg-name="NUSANTARA-TV", NUSANTARA TV
+http://iptvid.my.id/avc/Mastam/mastam123/nusantaratv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_one.png" group-title="IndiHomeTV" tvg-name="ONE", ONE
+http://iptvid.my.id/avc/Mastam/mastam123/sone.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_pandatv_hd.png" group-title="IndiHomeTV" tvg-name="PANDA-TV-HD", PANDA TV HD
+http://iptvid.my.id/avc/Mastam/mastam123/pandatv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_paramountchannel.png" group-title="IndiHomeTV" tvg-name="PARAMOUNT-CHANNEL", PARAMOUNT NETWORK 
+http://iptvid.my.id/avc/Mastam/mastam123/paramount.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_prambors.png" group-title="IndiHomeTV" tvg-name="PRAMBORS", PRAMBORS
+http://iptvid.my.id/avc/Mastam/mastam123/pramborstv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rockentertaiment.png" group-title="IndiHomeTV" tvg-name="ROCK-ENTERTAIMENT", ROCK ENTERTAINMENT
+http://iptvid.my.id/avc/Mastam/mastam123/blueant.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rockextreme.png" group-title="IndiHomeTV" tvg-name="ROCK-ACTION", ROCK ACTION
+http://iptvid.my.id/avc/Mastam/mastam123/blueantextreme.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rodjatv.png" group-title="IndiHomeTV" tvg-name="RODJA-TV", RODJA TV
+http://iptvid.my.id/avc/Mastam/mastam123/rodjatv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rrinet.png" group-title="IndiHomeTV" tvg-name="RRI-NET", RRI NET
+http://iptvid.my.id/avc/Mastam/mastam123/rrinet.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_rtv.png" group-title="IndiHomeTV" tvg-name="RTV", RTV
+http://iptvid.my.id/avc/Mastam/mastam123/rtv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_sctv.png" group-title="IndiHomeTV" tvg-name="SCTV", SCTV
+http://iptvid.my.id/avc/Mastam/mastam123/sctv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seatoday_hd.png" group-title="IndiHomeTV" tvg-name="SEA-TODAY-HD", SEA TODAY HD
+http://iptvid.my.id/avc/Mastam/mastam123/seatoday.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_seru.png" group-title="IndiHomeTV" tvg-name="SERU", SERU
+http://iptvid.my.id/avc/Mastam/mastam123/seru.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://i.imgur.com/Bj0MyZQ.png" group-title="IndiHomeTV",SPOTV
+http://iptvid.my.id/avc/Mastam/mastam123/spotv.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-logo="https://i.imgur.com/5QHtJQw.png" group-title="IndiHomeTV",SPOTV2
+http://iptvid.my.id/avc/Mastam/mastam123/spotv2.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tawaftv.png" group-title="IndiHomeTV" tvg-name="TAWAF-TV", TAWAF TV
+http://iptvid.my.id/avc/Mastam/mastam123/tawaftv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_techstorm.png" group-title="IndiHomeTV" tvg-name="TECHSTORM", TECHSTORM
+http://iptvid.my.id/avc/Mastam/mastam123/techstorm.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_thrill.png" group-title="IndiHomeTV" tvg-name="THRILL", THRILL
+http://iptvid.my.id/avc/Mastam/mastam123/thrill.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tlc.png" group-title="IndiHomeTV" tvg-name="TLC", TLC
+http://iptvid.my.id/avc/Mastam/mastam123/tlc.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_trans7.png" group-title="IndiHomeTV" tvg-name="TRANS7", TRANS 7
+http://iptvid.my.id/avc/Mastam/mastam123/trans7.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_transtv.png" group-title="IndiHomeTV" tvg-name="TRANSTV", TRANS TV
+http://iptvid.my.id/avc/Mastam/mastam123/transtv.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_trtworld.png" group-title="IndiHomeTV" tvg-name="TRT-WORLD", TRT WORLD
+http://iptvid.my.id/avc/Mastam/mastam123/trtworld.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tv5monde.png" group-title="IndiHomeTV" tvg-name="TV5MONDE", TV5MONDE
+http://iptvid.my.id/avc/Mastam/mastam123/tv5monde.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tv9.png" group-title="IndiHomeTV" tvg-name="TV9", TV9
+http://iptvid.my.id/avc/Mastam/mastam123/tv9.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvbsnews.png" group-title="IndiHomeTV" tvg-name="TVBS NEWS", TVBS NEWS
+http://iptvid.my.id/avc/Mastam/mastam123/tvbs.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvn.png" group-title="IndiHomeTV" tvg-name="TVN", TVN
+http://iptvid.my.id/avc/Mastam/mastam123/tvn.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvnmovies.png" group-title="IndiHomeTV" tvg-name="TVN-MOVIES", TVN MOVIES
+http://iptvid.my.id/avc/Mastam/mastam123/tvnmovies.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvone.png" group-title="IndiHomeTV" tvg-name="TVONE", TVONE
+http://iptvid.my.id/avc/Mastam/mastam123/tvone.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_tvri.png" group-title="IndiHomeTV" tvg-name="TVRI", TVRI
+http://iptvid.my.id/avc/Mastam/mastam123/tvri.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_uchannel.png" group-title="IndiHomeTV" tvg-name="U-CHANNEL", U CHANNEL
+http://iptvid.my.id/avc/Mastam/mastam123/uchannel.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useeprime.png" group-title="IndiHomeTV" tvg-name="USEE-PRIME", USEE PRIME
+http://iptvid.my.id/avc/Mastam/mastam123/useeprime.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useesports.png" group-title="IndiHomeTV" tvg-name="USEE-SPORTS", UseeSports
+http://iptvid.my.id/avc/Mastam/mastam123/useesport.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_useesports2.png" group-title="IndiHomeTV" tvg-name="USEE-SPORTS-2", UseeSports2
+http://iptvid.my.id/avc/Mastam/mastam123/useesports2.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_warnertv.png" group-title="IndiHomeTV" tvg-name="WARNER-TV", WARNER TV
+http://iptvid.my.id/avc/Mastam/mastam123/warner.m3u8
+
+#EXTINF:-1 tvg-logo="file:///home/hts/img/logo_zeebioskop.png" group-title="IndiHomeTV" tvg-name="ZEE-BIOSKOP", ZEE BIOSKOP
+http://iptvid.my.id/avc/Mastam/mastam123/zbioskop.m3u8
